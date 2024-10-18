@@ -16,7 +16,7 @@
 
 
 ## Introduction
-In my third-week exercise, my professor added a bonus task in which we had to generate prime numbers up to the nth integer. I didn't finish it because, well, skill issue. So, I decided to take my time and create this small project during my reading break instead of actually reviewing for my midterm exams. So, what are prime numbers?
+In my third-week exer in CMSC12, my professor added a bonus task in which we had to generate prime numbers up to the nth integer. I didn't finish it because, well, skill issue. So, I decided to take my time and create this small project during my reading break instead of actually reviewing for my midterm exams. So, what are prime numbers?
 
 According to a website I read, a prime number is a natural number that is divisible by 1 and itself. Some of the prime numbers include 2, 3, 5, 7, 11, 13, etc. Prime numbers play a crucial role in various fields, particularly in cybersecurity, cryptography, number theory, and algorithm design. Efficient prime number generation is essential for many computational tasks. This so-called "academic blog" presents multiple algorithms for generating prime numbers and analyzes their computational complexity. The objective is to explore the different methods for generating prime numbers, identify which algorithm is the most efficient for generating large prime numbers, and highlight the trade-offs in terms of speed, accuracy, and scalability.
 
