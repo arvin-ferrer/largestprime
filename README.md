@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [I. Introduction](##-Introduction)
+- [I. Introduction](#Introduction)
 - [II. Installation](#ii-installation)
 - [III. Usage](#iii-usage) 
 - [IV. Algorithms Implemented](#iv-algorithms-implemented)
