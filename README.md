@@ -162,8 +162,8 @@ why the f am I doing this shit :>
 ### Fermat Primality Test
 This is similar to Rabin-Miller Test. This method is also a probabilistic method.
 Fermat's theorem says that if $p$ is prime and $a$ is not divisible by $p$, then 
-$a^(p-1) = 1 (mod p).
-To test whether a number pp is prime, we can choose random integers a that are not divisible by p, and check if a specific congruence condition is satisfied. If the condition fails for any value of a, then p is composite. On the other hand, if p is composite, it's highly unlikely that the congruence will hold for a randomly chosen a. Therefore, if the congruence holds for one or more values of a, we can conclude that pp is likely prime, though not guaranteed.
+$a^(p-1) = 1 (mod p)$.
+To test whether a number $p$ is prime, we can choose random integers a that are not divisible by $p$, and check if a specific congruence condition is satisfied. If the condition fails for any value of a, then p is composite. On the other hand, if p is composite, it's highly unlikely that the congruence will hold for a randomly chosen a. Therefore, if the congruence holds for one or more values of $a$, we can conclude that pp is likely prime, though not guaranteed.
 
 ```
 FermatPrimalityTest(n, k)
