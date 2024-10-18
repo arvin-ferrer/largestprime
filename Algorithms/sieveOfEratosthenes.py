@@ -21,7 +21,7 @@ def findLargestPrimeSOE(limit_time):
             largest_prime = primes[-1]  # Update to the last (largest) prime found
             prime_count = len(primes)  # Update the prime count to match total primes found
 
-        if prime_count == largest_prime:  # Check if the largest prime matches the count
+        elif prime_count == largest_prime:  # Check if the largest prime matches the count
             break
 
         limit *= 2  # Double the limit for the next iteration
