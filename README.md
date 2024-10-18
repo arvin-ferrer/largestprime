@@ -1,6 +1,7 @@
 # Generating Prime Numbers Using Various Algorithms
 
 ## Table of Contents
+
 - [I. Introduction](#i-introduction)
 - [II. Installation](#ii-installation)
 - [III. Usage](#iii-usage) 
@@ -11,12 +12,13 @@
   - [4. Fermat Primality Test](#4-fermat-primality-test)
 - [V. Performance and Time Complexity](#v-performance-and-time-complexity)
   - [1. Basic Trial Division](#1-basic-trial-division-1)
-  - [2. Optimized Division](#1-basic-trial-division)  
-  - [3. Sieve of Eratosthenes](#2-sieve-of-eratosthenes-1)
-  - [4. Miller-Rabin Primality Test](#3-miller-rabin-primality-test-1)
-  - [5. Fermat Primality Test](#4-fermat-primality-test-1)
+  - [2. Optimized Division](#2-optimized-division)  
+  - [3. Sieve of Eratosthenes](#3-sieve-of-eratosthenes)
+  - [4. Miller-Rabin Primality Test](#4-miller-rabin-primality-test)
+  - [5. Fermat Primality Test](#5-fermat-primality-test)
 - [VI. Conclusion](#vi-conclusion)
 - [VII. License](#vii-license)
+
 
 ## Introduction
 In my third-week exercise, my professor added a bonus task in which we had to generate prime numbers up to the nth integer. I didn't finish it because, well, skill issue. So, I decided to take my time and create this small project during my reading break instead of actually reviewing for my midterm exams. So, what are prime numbers?
