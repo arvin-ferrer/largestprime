@@ -10,12 +10,7 @@
   - [2. Sieve of Eratosthenes](#Sieve-of-eratosthenes)
   - [3. Miller-Rabin Primality Test](#Miller-rabin-primality-test)
   - [4. Fermat Primality Test](#Fermat-primality-test)
-- [V. Performance and Time Complexity](#Performance-and-time-complexity)
-  - [1. Basic Trial Division](#basic-trial-division)
-  - [2. Optimized Division](#optimized-division)  
-  - [3. Sieve of Eratosthenes](#sieve-of-eratosthenes)
-  - [4. Miller-Rabin Primality Test](#miller-rabin-primality-test)
-  - [5. Fermat Primality Test](#fermat-primality-test)
+- [V. Performance and Time Complexity](#Performance-comparison)
 - [VI. Conclusion](#conclusion)
 - [VII. License](#license)
 
