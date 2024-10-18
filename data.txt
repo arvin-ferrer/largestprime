@@ -1,0 +1,98 @@
+
+TRIAL DIVISION METHOD
+
+ATTEMPT #1
+Time ran: 60 seconds
+Largest Prime(Trial Division): 117023
+No of primes(Trial Division): 11047
+
+ATTEMPT #2
+Time ran: 60 seconds
+Largest Prime(Trial Division): 119179
+No of primes(Trial Division): 11231
+
+ATTEMPT #3
+Time ran: 60 seconds
+Largest Prime(Trial Division): 113819
+No of primes(Trial Division): 10775
+
+
+OPTIMIZED TRIAL DIVISION METHOD
+
+ATTEMPT #1
+Time ran: 60 seconds
+Largest Prime(Trial Division): 4197833
+No of primes(Trial Division): 296179
+
+ATTEMPT #2
+Time ran: 60 seconds
+Largest Prime(Trial Division): 4393217
+No of primes(Trial Division): 308908
+
+ATTEMPT #3
+Time ran: 60 seconds
+Largest Prime(Trial Division): 4397311
+No of primes(Trial Division): 309169
+
+SIEVE OF ERATOSTHENES METHOD
+
+ATTEMPT #1
+Time ran: 60 seconds
+Largest Prime(Sieve of Eratosthenes): 131071987
+No of primes(Sieve of Eratosthenes): 7435597
+
+ATTEMPT #2
+Time ran: 60 seconds
+Largest Prime(Sieve of Eratosthenes): 131071987
+No of primes(Sieve of Eratosthenes): 7435597
+
+ATTEMPT #3
+Time ran: 60 seconds
+Largest Prime(Sieve of Eratosthenes): 131071987
+No of primes(Sieve of Eratosthenes): 74355
+
+FERMAT PRIMALITY TEST
+ATTEMPT #1
+Time ran: 60 seconds
+Largest Prime(Fermat Primality Test): 11328931
+No of primes(Fermat Primality Test): 746850
+
+ATTEMPT #2
+Time ran: 60 seconds
+Largest Prime(Fermat Primality Test): 12075419
+No of primes(Fermat Primality Test): 792751
+
+ATTEMPT #3
+Time ran: 60 seconds
+Largest Prime(Fermat Primality Test): 11799919
+No of primes(Fermat Primality Test): 775835
+
+WHEEL FACTORIZATION METHOD
+ATTEMPT #1
+Time ran: 60 seconds
+Largest Prime(Wheel Factorization Method): 6754357
+No of primes(Wheel Factorization Method): 460988
+ATTEMPT #2
+Time ran: 60 seconds
+Largest Prime(Wheel Factorization Method): 6252401
+No of primes(Wheel Factorization Method): 42897
+ATTEMPT #3
+Time ran: 60 seconds
+Largest Prime(Wheel Factorization Method): 6792967
+No of primes(Wheel Factorization Method): 463416
+
+MILLER-RABIN PRIMALITY TEST
+ATTEMPT#1
+Time ran: 60 seconds
+Largest Prime(Miller-Rabin Test): 10161923
+No of primes(Miller-RabinTest): 674672
+
+ATTEMPT#2
+Time ran: 60 seconds
+Largest Prime(Miller-Rabin Test): 10244303
+No of primes(Miller-RabinTest): 679713
+
+ATTEMPT#3
+Time ran: 60 seconds
+Largest Prime(Miller-Rabin Test): 9870811
+No of primes(Miller-RabinTest): 656636
