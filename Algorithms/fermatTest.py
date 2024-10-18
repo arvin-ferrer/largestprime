@@ -26,22 +26,14 @@ def largestPrimeFermat(limit_time):
             count += 1
             largest_prime = num  # Update largest prime
             primes.append(num)   # Track prime numbers found
+
+            # Check if the nth prime matches the total count
+            if count == num:
+                break  # Stop when consistency is reached
+
         num += 2  # Skip even numbers
     
-    # Ensure consistency by adjusting to match the nth prime with total primes found
+    # Ensure consistency between nth prime and total primes found
     nth_prime = primes[count - 1]  # Get the nth prime based on the count
 
-    # Check if the largest prime found is consistent with the count of primes
-    while largest_prime != count:
-        # Adjust the largest prime to match the correct nth prime
-        num += 2
-        if fermatPrimality(num):
-            count += 1
-            largest_prime = num
-
-    return largest_prime, count
-
-
-# timelimit = 60
-# largest_prime_fermat = find_largest_prime_fermat(timelimit)
-# print("Largest prime (Fermat):", largest_prime_fermat)
+    return nth_prime, count
