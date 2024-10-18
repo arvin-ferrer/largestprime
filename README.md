@@ -3,12 +3,12 @@
 ## Table of Contents
 
 - [I. Introduction](#Introduction)
-- [II. Installation](#ii-installation)
-- [III. Usage](#iii-usage) 
-- [IV. Algorithms Implemented](#iv-algorithms-implemented)
-  - [1. Basic Trial Division](#1-basic-trial-division)
-  - [2. Sieve of Eratosthenes](#2-sieve-of-eratosthenes)
-  - [3. Miller-Rabin Primality Test](#3-miller-rabin-primality-test)
+- [II. Installation](#Installation)
+- [III. Usage](#Usage) 
+- [IV. Algorithms Implemented](#Algorithms-implemented)
+  - [1. Basic Trial Division](#Basic-trial-division)
+  - [2. Sieve of Eratosthenes](#Sieve-of-eratosthenes)
+  - [3. Miller-Rabin Primality Test](#Miller-rabin-primality-test)
   - [4. Fermat Primality Test](#4-fermat-primality-test)
 - [V. Performance and Time Complexity](#v-performance-and-time-complexity)
   - [1. Basic Trial Division](#1-basic-trial-division-1)
