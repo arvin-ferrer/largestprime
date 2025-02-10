@@ -209,6 +209,3 @@ https://www.geeksforgeeks.org/fermat-method-of-primality-test/
 https://en.wikipedia.org/wiki/ProofsofFermat'slittletheorem
 
 ```
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
