@@ -12,7 +12,7 @@
   - [4. Fermat Primality Test](#Fermat-primality-test)
 - [V. Performance and Time Complexity](#Performance-comparison)
 - [VI. Conclusion](#conclusion)
-- [VII. License](#license)
+- [VII. Resources](#resourcess)
 
 
 ## Introduction
@@ -197,7 +197,7 @@ This so called "academic blog" presents and compares the different algorithm tha
 PS: If you want a fast algorithm for generating prime numbers up to nth number just use Sieve of Eratosthenes(damn so mouthful) or its relative called **Sieve of Atkin**(I didn't know about this until I'm 80% done f my life). Also If you're wondering why I did this in python and not C or C++ that's because I'm too  dumb to implement the Fermat's theorem and Miller-Rabin Test in low-level languages.
 
 
-## Resources that I used
+## Resources
 ```
 too lazy to cite this properly sorry
 
